@@ -1,3 +1,6 @@
+// Projeto feito para a matéria de Estrutura de dados, em que usamos a estrutura de Árvore Binária para exibir resultados de um arquivo. 
+// Esse arquivo era sobre os top 200 filmes baseados em seus respectivos lucros, alem de dar o ano em que cada um foi lançado.
+
 // Caroline Malaguti Taus
 // Rebecca Mello dos Santos
 
